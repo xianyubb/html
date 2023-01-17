@@ -12,7 +12,6 @@
       <img
         src="https://i.328888.xyz/2023/01/17/Hf0wy.jpeg"
         alt="xianyu"
-        border="0"
         width="80px"
         height="80px"
       />
