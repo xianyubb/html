@@ -8,6 +8,19 @@
     <title>XianYu的个人网站</title>
   </head>
   <body>
+    <div style="text-align: center">
+      <iframe
+        frameborder="no"
+        border="0"
+        marginwidth=""
+        marginheight="0"
+        width="500px"
+        height="195px"
+        scrolling="no"
+        src="//motdbe.blackbe.work/iframe.html?ip=mc.lgc2333.top&port=25565&dark=false&join_open=true"
+      ></iframe>
+      <p>欢迎来我服务器玩哦</p>
+    </div>
     <div style="background: #f1f1; text-align: center; padding: 40px">
       <img
         src="https://i.328888.xyz/2023/01/17/Hf0wy.jpeg"
@@ -42,7 +55,7 @@
       <p>我的联系方式</p>
       <p>QQ:2149656630</p>
       <a href="https://www.minebbs.com/members/xianyubb.42760/">Minebbs</a>
-      <a href="https://jq.qq.com/?_wv=1027&k=ogsGoGRs">吹水群</a>
+      <a href="https://jq.qq.com/?_wv=1027&k=B8V8ZW2g">吹水群</a>
     </div>
   </body>
 </html>
