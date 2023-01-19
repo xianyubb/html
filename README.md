@@ -17,7 +17,7 @@
         width="500px"
         height="195px"
         scrolling="no"
-        src="//motdbe.blackbe.work/iframe.html?ip=mc.lgc2333.top&port=25565&dark=false&join_open=true"
+        src="//motdbe.blackbe.work/iframe.html?ip=mc.lgc2333.top&port=19132&dark=false&join_open=true"
       ></iframe>
       <p>欢迎来我服务器玩哦</p>
     </div>
