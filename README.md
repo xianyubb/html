@@ -1,26 +1,12 @@
-# html
+# 闲鱼的个人网站
 <!DOCTYPE html>
 <html lang="zh_CN">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>XianYu的个人网站</title>
   </head>
   <body>
-    <div style="text-align: center">
-      <iframe
-        frameborder="no"
-        border="0"
-        marginwidth=""
-        marginheight="0"
-        width="500px"
-        height="195px"
-        scrolling="no"
-        src="//motdbe.blackbe.work/iframe.html?ip=mc.lgc2333.top&port=19132&dark=false&join_open=true"
-      ></iframe>
-      <p>欢迎来我服务器玩哦</p>
-    </div>
     <div style="background: #f1f1; text-align: center; padding: 40px">
       <img
         src="https://i.328888.xyz/2023/01/17/Hf0wy.jpeg"
